@@ -1,1 +1,1 @@
-# baiduschool
+# baiduSchool
